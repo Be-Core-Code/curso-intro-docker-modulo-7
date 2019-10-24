@@ -4,6 +4,7 @@
 
 * [¿Qué es `docker-compose`?](#/concepts)
 * [Instalación](#/installation)
+* [Práctica 1: Wordpress](#/wordpress)
 * [CLI](#/cli)
 * [Conjuntos de servicios](#/service-sets)
 * [Ejercicio](/#exercise)
