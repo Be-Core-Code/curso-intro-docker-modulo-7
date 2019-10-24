@@ -3,6 +3,7 @@
 #### `docker-compose`
 
 * [¿Qué es `docker-compose`?](#/concepts)
+* [Instalación](#/installation)
 * [CLI](#/cli)
 * [Conjuntos de servicios](#/service-sets)
 * [Ejercicio](/#exercise)
