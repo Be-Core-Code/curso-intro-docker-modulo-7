@@ -6,7 +6,7 @@
 * [Instalación](#/installation)
 * [Práctica 1: Wordpress](#/wordpress)
 * [CLI](#/cli)
-* [Conjuntos de servicios](#/service-sets)
+* [Definición de servicios](#/docker-compose-reference)
 * [Ejercicio](/#exercise)
 
 notes:
